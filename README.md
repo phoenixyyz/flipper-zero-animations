@@ -1,7 +1,4 @@
 # flipper-zero-animations
 
-: BY PHOENIX_YYZ
-
-: ALL FILES ARE FREE-TO EDIT AND USE
-
-: HAVE A NICE DAY :)
+My list of compiled and uncompiled flipper zero animations 
+* 🚧 Active Work in progress...
