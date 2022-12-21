@@ -1,4 +1,6 @@
 # flipper-zero-animations
 
-My list of compiled and uncompiled flipper zero animations 
-* 🚧 Active Work in progress...
+Made these for fun! some may be broken so *use at own risk*.
+
+* 🌲Compiled / Uncompiled branches for organization.
+* 🚧 Active Work in progress.
