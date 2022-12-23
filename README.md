@@ -9,7 +9,7 @@
 
 * 🚧 Everything here is a work in progress.
 
-# Previews:
+# Animation Previews:
 
 <img>
 <img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_HackerMan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
