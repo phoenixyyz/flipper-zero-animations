@@ -1,6 +1,7 @@
 # flipper-zero-animations
 
-My personal collection of custom animations for the flipper zero.
+
+# Updates:
 
 * (12-22-23) New animations uploaded.
 (HackerMan, Nyan, Smile, Vortex)
