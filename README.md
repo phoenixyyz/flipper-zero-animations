@@ -3,8 +3,8 @@
 
 # Updates:
 
-* (12-22-23) New animations uploaded.
-(HackerMan, Nyan, Smile, Vortex)
+* (12-22-22) New animations uploaded.
+(HackerMan, Nyan, Smile, Vortex, StarSwirl)
   
 * 🛠️ Some animations may require tuning in the meta file to work better.
 
