@@ -11,17 +11,26 @@
 
 # Previews:
 
-![Hackerman](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_HackerMan.gif) 
-* PYX_HackerMan
+<img>
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_HackerMan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
-![Nyan](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Nyan.gif) 
-* PYX_Nyan
+* Preview: HackerMan
 
-![Smile](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Smile.gif) 
-* PYX_Smile
+<img>
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Nyan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
-![Vortex](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Vortex.gif) 
-* PYX_Vortex
+* Preview: Nyan
 
-![Star_Swirl](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Star_Swirl.gif) 
-* PYX_Star_Swirl
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Smile.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Smile
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Vortex.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Vortex
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Star_Swirl.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Star_Swirl
+
+# More coming soon...
