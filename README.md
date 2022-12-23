@@ -12,16 +12,16 @@
 # Previews:
 
 ![Hackerman](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_HackerMan.gif) 
-* PYX_HackerMan.zip
+* PYX_HackerMan
 
 ![Nyan](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Nyan.gif) 
-* PYX_Nyan.zip
+* PYX_Nyan
 
 ![Smile](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Smile.gif) 
-* PYX_Smile.zip
+* PYX_Smile
 
 ![Vortex](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Vortex.gif) 
-* PYX_Vortex.zip
+* PYX_Vortex
 
 ![Star_Swirl](https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Star_Swirl.gif) 
-* PYX_Star_Swirl.zip
+* PYX_Star_Swirl
