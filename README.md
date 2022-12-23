@@ -8,4 +8,4 @@
   
 * 🛠️ Some animations may require tuning in the meta file to work better.
 
-* 🚧 Work in progress.
+* 🚧 Everything here is a work in progress.
