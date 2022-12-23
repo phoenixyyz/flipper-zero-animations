@@ -2,6 +2,9 @@
 
 My personal collection of custom animations for the flipper zero.
 
-* Added new animations! (12-22-23)
-* 🛠️ Some animations may require tuning in the meta file to look better
-* 🚧 Work in progress - adding weekly
+* (12-22-23) New animations uploaded.
+(HackerMan, Nyan, Smile, Vortex)
+  
+* 🛠️ Some animations may require tuning in the meta file to work better.
+
+* 🚧 Work in progress.
