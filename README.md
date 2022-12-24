@@ -1,8 +1,9 @@
 # flipper-zero-animations
-Welcome to my Flipper Zero animation repo : ) Feel free to do what you'd like with anything here.
-+ *Some animations may be buggy so consider them in beta.*
 
 # Updates:
+
+* (12-24-2022) New animations uploaded.
+(Circle_Merge [Buggy], Moon_Shift, Swipe [Buggy], Tri_Bar, Ultra_Shift. Xplode, Bar_Shift, Bars)
 
 * (12-22-22) New animations uploaded.
 (HackerMan, Nyan, Smile, Vortex, StarSwirl)
