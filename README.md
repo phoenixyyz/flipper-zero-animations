@@ -50,4 +50,38 @@
 
 * Preview: Star_Swirl
 
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/barcode_fast_shift.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Barcode_Fast_Shift (Buggy)
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/circle_merge.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Circle_Merge (Buggy)
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/moon_shift.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Moon_Shift
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/screen_wipe.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Screen_Wipe (Buggy)
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/tri_bar.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Tri_Bar
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/trippy_bars.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Trippy_Bar
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/ultra_shift.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Ultra_Shift
+
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/xplosion.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+
+* Preview: Xplosion
+
+
+
 # More coming soon...
