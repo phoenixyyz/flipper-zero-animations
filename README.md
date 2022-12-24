@@ -3,7 +3,7 @@
 # Updates:
 
 * (12-24-2022) New animations uploaded.
-(Circle_Merge [Buggy], Moon_Shift, Swipe [Buggy], Tri_Bar, Ultra_Shift. Xplode, Bar_Shift, Bars)
+(Circle_Merge, Moon_Shift, Swipe, Tri_Bar, Ultra_Shift. Xplode, Bar_Shift, Bars)
 
 * (12-22-22) New animations uploaded.
 (HackerMan, Nyan, Smile, Vortex, StarSwirl)
@@ -29,24 +29,24 @@
 # Animation Previews:
 
 <img>
-<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_HackerMan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/Hackerman.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
 * Preview: HackerMan
 
 <img>
-<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Nyan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/Nyan.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
 * Preview: Nyan
 
-<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Smile.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/Smile.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
 * Preview: Smile
 
-<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Vortex.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/Vortex.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
 * Preview: Vortex
 
-<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/animation-previews/PYX_Star_Swirl.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
+<img src="https://github.com/phoenixyyz/flipper-zero-animations/blob/main/preview-files/Star_Swirl.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="256" height="128" />
 
 * Preview: Star_Swirl
 
